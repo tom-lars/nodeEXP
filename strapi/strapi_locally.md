@@ -98,6 +98,9 @@ Visit `http://localhost:1337/admin` to access the admin panel and create your fi
 
 ## ✅ Done
 
+
+![Screenshot 2025-06-09 135058](https://github.com/user-attachments/assets/9899fec8-c2b9-485b-af56-e6a41b108033)
+
 You now have a local Strapi CMS connected to PostgreSQL, ready for API and content development!
 
 ---
